@@ -9,6 +9,8 @@ public MemberDAO(Connection con) {
 	super();
 	this.con = con;
 }
- 
+ public void insert() {
+	 
+ }
  
 }
