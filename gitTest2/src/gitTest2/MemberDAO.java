@@ -12,5 +12,8 @@ public MemberDAO(Connection con) {
  public void insert() {
 	 
  }
+ public void modify() {
+	 
+ }
  
 }
